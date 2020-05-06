@@ -1,0 +1,19 @@
+{
+  "name": "microservices-blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eglove/microservices.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eglove/microservices/issues"
+  },
+  "homepage": "https://github.com/eglove/microservices#readme"
+}
