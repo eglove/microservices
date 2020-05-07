@@ -39,9 +39,10 @@ app.post('/events', (req, res) => {
   }
 
   console.log(posts);
+
   res.send({});
 });
 
 app.listen(4002, () => {
-  console.log('Listening on http://localhost:4002');
+  console.log('Listening on 4002');
 });
